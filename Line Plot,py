@@ -1,0 +1,2 @@
+Create a line plot for the total confirmed cases in India using the 'line_plot()' function.
+line_plot("abhishek","ggplot",20,6,"Spain","red",3,"o")
